@@ -13,7 +13,7 @@ LinkedList SingleListInit()   //³õÊ¼»¯
 	if (L == NULL)
 		printf("ÉêÇë¿Õ¼äÊ§°Ü");
 	L->next = NULL;
-
+    //
 	return L;
 }
 
