@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Cristiano-Ronaldo/CLionProjects/untitled/LineList.h
+stdio.h
+-
+
+C:/Users/Cristiano-Ronaldo/CLionProjects/untitled/main.c
+stdio.h
+-
+stdlib.h
+-
+LineList.h
+C:/Users/Cristiano-Ronaldo/CLionProjects/untitled/LineList.h
+

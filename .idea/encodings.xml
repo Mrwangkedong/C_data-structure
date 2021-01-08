@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Queue/SqQueue.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SingleLine/LineList.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/SingleLine/SingleLine.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack/LiStack.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stack/SqStack.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/2.2.3.c" charset="GBK" />
+  </component>
+</project>
